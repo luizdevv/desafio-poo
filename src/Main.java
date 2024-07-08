@@ -24,6 +24,8 @@ public class Main {
         mentoria1.setDescricao("descrição mentoria java");
         mentoria1.setData(LocalDate.now());
 
+        System.out.println(curso1);
+        System.out.println(curso2);
         System.out.println(mentoria1);
     }
 }
